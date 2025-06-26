@@ -1,5 +1,5 @@
 CODESOFT JAVA PROGRAMMING INTERNSHIP
-Welcome to my Java Programming Internship repository, completed under the mentorship of **CodeSoft**
+Welcome to my Java Programming Internship repository, completed under the mentorship of *codesoft*
 
 #Internship Details
 
